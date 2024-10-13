@@ -1,0 +1,14 @@
+#num-12{
+    width: 50%;
+    height: 50%;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul li{
+    display: inline-block;
+    list-style-type: none;
+    /* margin-right: 20px; */
+}
